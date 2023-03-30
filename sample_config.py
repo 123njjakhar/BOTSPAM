@@ -38,14 +38,7 @@ try:
 except Exception:
     SUDO_USERS = str(getenv("SUDO_USERS", "123 456"))
 
-START_MESSAGE = getenv(
-    "START_MESSAGE",
-    "This is a Powerful Bot Spam Made By [DEVIL😈](https://t.me/ITS_MEE_DEVIL_NJ)",
-)
-
 PING_PIC = getenv("PING_PIC", "https://graph.org//file/e3bc2371c937c21717af7.jpg")
-
-START_PIC = getenv("START_PIC", "https://graph.org//file/e3bc2371c937c21717af7.jpg")
 
 LOG_CHANNEL = getenv("LOG_CHANNEL", None)
 
