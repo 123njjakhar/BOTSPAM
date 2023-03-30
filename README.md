@@ -1,6 +1,6 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=BOTSPAM&theme=lite)
 
-[![LEGENDBOTSPAM](https://graph.org/file/89ed7d3a2bd8aa2c61385.jpg)](https://github.com/LEGEND-AI/BOTSPAM)
+[![DEVIL NJ](https://graph.org//file/e3bc2371c937c21717af7.jpg)](https://github.com/123njjakhar/BOTSPAM)
 
 <h1 align="center">
 <b> 『ẞø†Spâm』 </b>
@@ -21,15 +21,15 @@
 
 ## Status Of Bot 
 <p align="left">
-<a href="https://github.com/LEGEND-AI/BOTSPAM/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/BOTSPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/BOTSPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM?"></a>
+<a href="https://github.com/123njjakhar/BOTSPAM/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/BOTSPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM/stargazers"><img src="https://img.shields.io/github/stars/123njjakhar/BOTSPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/123njjakhar/BOTSPAM"></a><p align="left"><a href="https://github.com/123njjakhar/BOTSPAM?"></a>
   
 -------
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBotSpam)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/ROMEOBOT_OP)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/LegendBot_AI)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/ROMEOBOT_OP)
  
 -------
 
@@ -197,7 +197,7 @@ Commands | Description
 </details>
 
 
-> Made with 💕 by [@TeamLegendXD](https://t.me/TeamLegendXD).    
+> Made with 💕 by [@RPMEOBOT_OP](https://t.me/romeobot_op).    
 
 
 
