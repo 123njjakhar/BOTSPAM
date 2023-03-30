@@ -40,13 +40,13 @@ except Exception:
 
 START_MESSAGE = getenv(
     "START_MESSAGE",
-    "This is a Powerful Bot Spam Made By [Team Legend](https://t.me/TeamLegendXD)",
+    "This is a Powerful Bot Spam Made By [DEVIL😈](https://t.me/ITS_MEE_DEVIL_NJ)",
 )
 
-PING_PIC = getenv("PING_PIC", "https://graph.org/file/8b665536aee97ee58f5ca.jpg")
+PING_PIC = getenv("PING_PIC", "https://graph.org//file/e3bc2371c937c21717af7.jpg")
 
-START_PIC = getenv("START_PIC", "https://graph.org/file/01d5c1877d6aabdd99c25.jpg")
+START_PIC = getenv("START_PIC", "https://graph.org//file/e3bc2371c937c21717af7.jpg")
 
 LOG_CHANNEL = getenv("LOG_CHANNEL", None)
 
-HANDLER = getenv("HANDLER", "/")
+HANDLER = getenv("HANDLER", "?")
